@@ -1,5 +1,7 @@
 # RotN_cryptography_training
 
+## Description 
+
 Simple java program to create a secret code with rot-n-cipher in terminal. This code was created as an exercise for myself. Fell free to ask questions or give feedback.
 
 ## how to start
