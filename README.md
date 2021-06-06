@@ -1,10 +1,11 @@
 # RotN_cryptography_training
 
-## Description 
+## Description: 
 
 Simple java program to create a secret code with rot-n-cipher in terminal. This code was created as an exercise for myself. Fell free to ask questions or give feedback.
 
-## how to start
+
+## Installation:
 
 Windows
 1. download RotN_cryptography.java
@@ -16,3 +17,22 @@ Windows
 
 still need help? This link helped me:
 https://www.thoughtco.com/creating-your-first-java-program-2034124
+
+
+## Usage: 
+
+Input your secret text and a number in your console to get a secret code as answer.
+
+
+## Contributing:
+
+-
+
+## Credits:
+
+-
+
+
+## License:
+
+MIT
