@@ -24,15 +24,6 @@ https://www.thoughtco.com/creating-your-first-java-program-2034124
 Input your secret text and a number in your console to get a secret code as answer.
 
 
-## Contributing:
-
--
-
-## Credits:
-
--
-
-
 ## License:
 
 MIT
